@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35930866826",
+    "project_id": "publistudio",
+    "storage_bucket": "publistudio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35930866826:android:29af88ac6c5daf61a65973",
+        "android_client_info": {
+          "package_name": "com.example.publistudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35930866826-a3a93toqa7nlp1dsfhc7983itbvi4gbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1HbjqHvzuo2Rcr52hdbXvqHda7-BpdjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35930866826-a3a93toqa7nlp1dsfhc7983itbvi4gbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
